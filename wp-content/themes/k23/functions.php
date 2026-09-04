@@ -53,3 +53,4 @@ function k23_bang_phien_ban() {
     echo '<span>Tải lúc: <b>' . esc_html(date('H:i:s d/m/Y')) . '</b></span>';
     echo '</div>';
 }
+// k23 Update 
